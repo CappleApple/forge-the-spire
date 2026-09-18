@@ -10,4 +10,4 @@ The README is intentionally short until the mechanics and modding API work are f
 
 ## License
 
-Forge the Spire is available under the MIT License.
+Forge the Spire is licensed under [CC BY-NC-SA 4.0 with a Modpack/Server Exception](LICENSE). Modpacks and Minecraft servers, including monetized ones, may use it under the additional permission in the LICENSE.
